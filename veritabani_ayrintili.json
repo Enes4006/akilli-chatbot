@@ -1,0 +1,220 @@
+{
+  "sorular": [
+    {
+      "soru": "merhaba",
+      "cevap": "Merhaba! Hosgeldin, sana nasil yardimci olabilirim?"
+    },
+    {
+      "soru": "nasilsin",
+      "cevap": "Iyiyim, tesekkur ederim. Sen nasilsin?"
+    },
+    {
+      "soru": "python nedir",
+      "cevap": "Python yuksek seviyeli, okunabilirligi yuksek bir programlama dilidir. Veri bilimi, yapay zeka, web gelistirme ve daha bir cok alanda kullanilir."
+    },
+    {
+      "soru": "yapay zeka nedir",
+      "cevap": "Yapay zeka bilgisayar sistemlerinin insan benzeri dusunme, ogrenme ve karar verme yeteneklerini taklit etmesidir."
+    },
+    {
+      "soru": "makine ogrenmesi nedir",
+      "cevap": "Makine ogrenmesi, bilgisayarlarin verilerden otomatik olarak ogrenmesini saglayan bir yapay zeka alt dalidir."
+    },
+    {
+      "soru": "en populer programlama dilleri nelerdir",
+      "cevap": "En populer diller Python, JavaScript, Java, C#, C++ ve Go'dur."
+    },
+    {
+      "soru": "internet nedir",
+      "cevap": "Internet, dunyadaki bilgisayarlarin birbirine bagli oldugu buyuk bir agdir."
+    },
+    {
+      "soru": "http nedir",
+      "cevap": "HTTP, web uzerinde veri transferi icin kullanilan bir protokoldur. Ornegin web sitelerine baglanmak icin kullanilir."
+    },
+    {
+      "soru": "html nedir",
+      "cevap": "HTML, web sayfalarini olusturmak icin kullanilan isaretleme dilidir."
+    },
+    {
+      "soru": "css nedir",
+      "cevap": "CSS, web sayfalarinin tasarim ve stil ozelliklerini belirlemek icin kullanilir."
+    },
+    {
+      "soru": "veritabani nedir",
+      "cevap": "Veritabani, bilgilerin duzenli sekilde saklandigi ve yonetildigi sistemdir."
+    },
+    {
+      "soru": "sql nedir",
+      "cevap": "SQL, veritabani islemleri icin kullanilan standart sorgulama dilidir."
+    },
+    {
+      "soru": "linux nedir",
+      "cevap": "Linux acik kaynakli bir isletim sistemidir ve serverlar, bilgisayarlar, telefonlar gibi bircok yerde kullanilir."
+    },
+    {
+      "soru": "windows nedir",
+      "cevap": "Windows, Microsoft tarafindan gelistirilen yaygin bir isletim sistemidir."
+    },
+    {
+      "soru": "java nedir",
+      "cevap": "Java, nesne tabanli, platform bagimsiz calisabilen bir programlama dilidir."
+    },
+    {
+      "soru": "csharp nedir",
+      "cevap": "C# Microsoft tarafindan gelistirilen nesne tabanli bir programlama dilidir."
+    },
+    {
+      "soru": "unity nedir",
+      "cevap": "Unity, 2D ve 3D oyun gelistirmek icin kullanilan populer bir oyun motorudur."
+    },
+    {
+      "soru": "godot nedir",
+      "cevap": "Godot, acik kaynakli ve hafif bir oyun motorudur."
+    },
+    {
+      "soru": "opencv nedir",
+      "cevap": "OpenCV, bilgisayarla gorus islemleri icin kullanilan acik kaynakli bir kutuphanedir."
+    },
+    {
+      "soru": "tensorflow nedir",
+      "cevap": "TensorFlow, yapay zeka ve makine ogrenmesi icin gelistirilmis bir kutuphanedir."
+    },
+    {
+      "soru": "pytorch nedir",
+      "cevap": "PyTorch, yapay zeka ve derin ogrenme icin yaygin olarak kullanilan bir kutuphanedir."
+    },
+    {
+      "soru": "bulut bilisim nedir",
+      "cevap": "Bulut bilisim, internet uzerinden depolama, islem gucu ve yazilim gibi hizmetlerin kullanilmasidir."
+    },
+    {
+      "soru": "docker nedir",
+      "cevap": "Docker, uygulamalari konteyner icinde calistirmaya yarayan bir platformdur."
+    },
+    {
+      "soru": "git nedir",
+      "cevap": "Git, yazilim gelistirmede surum kontrolu icin kullanilan bir sistemdir."
+    },
+    {
+      "soru": "github nedir",
+      "cevap": "GitHub, yazilim projelerinin paylasildigi ve ortak calisma yapilabildigi bir platformdur."
+    },
+    {
+      "soru": "ders calisma tavsiyesi",
+      "cevap": "Planli calismak, not almak ve duzenli tekrar yapmak faydalidir."
+    },
+    {
+      "soru": "saglikli yasam tavsiyesi",
+      "cevap": "Dengeli beslenmek, yeterli uyumak ve duzenli spor yapmak saglik icin onemlidir."
+    },
+    {
+      "soru": "motivasyon sozleri",
+      "cevap": "Basarinin sirlari: sabir, azim ve surekli calisma."
+    },
+    {
+      "soru": "tesekkurler",
+      "cevap": "Rica ederim! Her zaman yardim etmeye hazirim."
+    },
+    {
+      "soru": "gorusuruz",
+      "cevap": "Gorusmek uzere, iyi gunler dilerim!"
+    },
+    {
+      "soru": "merhaba",
+      "cevap": "Merhaba! Nasil gidiyor?"
+    },
+    {
+      "soru": "nasilsin",
+      "cevap": "Iyiyim, tesekkur ederim. Sen nasilsin?"
+    },
+    {
+      "soru": "python nedir",
+      "cevap": "Python, yuksek seviyeli, yorumlanabilir ve cok amacli bir programlama dilidir. Basit sozdizimi sayesinde yeni baslayanlar icin uygundur."
+    },
+    {
+      "soru": "yapay zeka nedir",
+      "cevap": "Yapay zeka, bilgisayarlarin insan benzeri dusunme, ogrenme ve problem cozme yeteneklerine sahip olmasini saglayan bir alandir."
+    },
+    {
+      "soru": "gunun nasil gecti",
+      "cevap": "Benim icin tum gunler ayni ama senin icin umarim guzel gecmistir!"
+    },
+    {
+      "soru": "en populer programlama dilleri hangileridir",
+      "cevap": "En populer programlama dilleri arasinda Python, JavaScript, Java, C#, C++ ve Go bulunur."
+    },
+    {
+      "soru": "sen kimsin",
+      "cevap": "Ben seninle sohbet etmek icin tasarlanmis bir yapay zeka chatbotuyum."
+    },
+    {
+      "soru": "saat kac",
+      "cevap": "Su anki zamani bilgisayarindan ogrenebilirsin."
+    },
+    {
+      "soru": "hava nasil",
+      "cevap": "Hava durumunu ogrenmek icin internetten veya telefonundaki hava durumu uygulamasindan bakabilirsin."
+    },
+    {
+      "soru": "muzik cal",
+      "cevap": "Ben dogrudan muzik calamam ama Spotify veya YouTube uzerinden muzik dinleyebilirsin."
+    },
+    {
+      "soru": "fıkra anlat",
+      "cevap": "Tabii! Bir yazilimciya sorarlar: Cayi sekerli mi icersin? O da der ki: Fark etmez, 0 ya da 1 farkli mi?"
+    },
+    {
+      "soru": "gunaydin",
+      "cevap": "Gunaydin! Umarim bugunun guzel ve verimli gecer."
+    },
+    {
+      "soru": "iyi geceler",
+      "cevap": "Iyi geceler! Tatli ruyalar."
+    },
+    {
+      "soru": "tesekkur ederim",
+      "cevap": "Rica ederim, her zaman yardim etmeye hazirim!"
+    },
+    {
+      "soru": "internette arama yap",
+      "cevap": "Google veya Bing uzerinden istedigin konuda arama yapabilirsin."
+    },
+    {
+      "soru": "gelecekte yapay zeka ne olacak",
+      "cevap": "Gelecekte yapay zekanin daha gelismis, etik kurallara uygun ve insan hayatini kolaylastirici sekilde kullanilmasi bekleniyor."
+    },
+    {
+      "soru": "cay mi kahve mi",
+      "cevap": "Ben tat alamiyorum ama insanlar genellikle sabah kahve, gun icinde ise cay tercih ediyor."
+    },
+    {
+      "soru": "en iyi telefon markasi hangisi",
+      "cevap": "Bu tercih kisiye gore degisir ama populer markalar arasinda Apple, Samsung, Xiaomi ve Huawei bulunur."
+    },
+    {
+      "soru": "bilgisayar nedir",
+      "cevap": "Bilgisayar, bilgileri islemek, depolamak ve iletmek icin tasarlanmis elektronik bir cihazdir."
+    },
+    {
+      "soru": "turkiye hakkinda bilgi ver",
+      "cevap": "Turkiye, Asya ve Avrupa kitalarinda bulunan, baskenti Ankara olan, tarihi ve kulturu cok zengin bir ulkedir."
+    },
+    {
+      "soru": "en iyi film hangisi",
+      "cevap": "Bu tamamen zevk meselesi ama cok sevilen filmler arasinda Inception, Matrix, Interstellar ve Lord of the Rings bulunur."
+    },
+    {
+      "soru": "oyun oner",
+      "cevap": "Eger strateji oyunlari seviyorsan Age of Empires, aksiyon oyunlari seviyorsan GTA V veya FPS seviyorsan Counter Strike oynayabilirsin."
+    },
+    {
+      "soru": "en iyi programlama dili hangisi",
+      "cevap": "En iyi programlama dili kullanacagin amaca gore degisir. Web icin JavaScript, veri analizi icin Python, sistem programlama icin C++ tercih edilebilir."
+    },
+    {
+      "soru": "ingilizce nasil ogrenilir",
+      "cevap": "Ingilizce ogrenmek icin bol bol pratik yapmali, film ve diziler izlemeli ve kelime haznesini genisletmelisin."
+    }
+  ]
+}

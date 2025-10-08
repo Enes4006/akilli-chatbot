@@ -1,0 +1,116 @@
+{
+  "sorular": [
+    {
+      "soru": "merhaba",
+      "cevap": "Merhaba! Nasil gidiyor?"
+    },
+    {
+      "soru": "nasilsin",
+      "cevap": "Iyiyim, tesekkur ederim. Sen nasilsin?"
+    },
+    {
+      "soru": "python nedir",
+      "cevap": "Python, yuksek seviyeli, yorumlanabilir ve cok amacli bir programlama dilidir. Basit sozdizimi sayesinde yeni baslayanlar icin uygundur."
+    },
+    {
+      "soru": "yapay zeka nedir",
+      "cevap": "Yapay zeka, bilgisayarlarin insan benzeri dusunme, ogrenme ve problem cozme yeteneklerine sahip olmasini saglayan bir alandir."
+    },
+    {
+      "soru": "gunun nasil gecti",
+      "cevap": "Benim icin tum gunler ayni ama senin icin umarim guzel gecmistir!"
+    },
+    {
+      "soru": "en populer programlama dilleri hangileridir",
+      "cevap": "En populer programlama dilleri arasinda Python, JavaScript, Java, C#, C++ ve Go bulunur."
+    },
+    {
+      "soru": "sen kimsin",
+      "cevap": "Ben seninle sohbet etmek icin tasarlanmis bir yapay zeka chatbotuyum."
+    },
+    {
+      "soru": "saat kac",
+      "cevap": "Su anki zamani bilgisayarindan ogrenebilirsin."
+    },
+    {
+      "soru": "hava nasil",
+      "cevap": "Hava durumunu ogrenmek icin internetten veya telefonundaki hava durumu uygulamasindan bakabilirsin."
+    },
+    {
+      "soru": "muzik cal",
+      "cevap": "Ben dogrudan muzik calamam ama Spotify veya YouTube uzerinden muzik dinleyebilirsin."
+    },
+    {
+      "soru": "f\u00c4\u00b1kra anlat",
+      "cevap": "Tabii! Bir yazilimciya sorarlar: Cayi sekerli mi icersin? O da der ki: Fark etmez, 0 ya da 1 farkli mi?"
+    },
+    {
+      "soru": "gunaydin",
+      "cevap": "Gunaydin! Umarim bugunun guzel ve verimli gecer."
+    },
+    {
+      "soru": "iyi geceler",
+      "cevap": "Iyi geceler! Tatli ruyalar."
+    },
+    {
+      "soru": "tesekkur ederim",
+      "cevap": "Rica ederim, her zaman yardim etmeye hazirim!"
+    },
+    {
+      "soru": "internette arama yap",
+      "cevap": "Google veya Bing uzerinden istedigin konuda arama yapabilirsin."
+    },
+    {
+      "soru": "gelecekte yapay zeka ne olacak",
+      "cevap": "Gelecekte yapay zekanin daha gelismis, etik kurallara uygun ve insan hayatini kolaylastirici sekilde kullanilmasi bekleniyor."
+    },
+    {
+      "soru": "cay mi kahve mi",
+      "cevap": "Ben tat alamiyorum ama insanlar genellikle sabah kahve, gun icinde ise cay tercih ediyor."
+    },
+    {
+      "soru": "en iyi telefon markasi hangisi",
+      "cevap": "Bu tercih kisiye gore degisir ama populer markalar arasinda Apple, Samsung, Xiaomi ve Huawei bulunur."
+    },
+    {
+      "soru": "bilgisayar nedir",
+      "cevap": "Bilgisayar, bilgileri islemek, depolamak ve iletmek icin tasarlanmis elektronik bir cihazdir."
+    },
+    {
+      "soru": "turkiye hakkinda bilgi ver",
+      "cevap": "Turkiye, Asya ve Avrupa kitalarinda bulunan, baskenti Ankara olan, tarihi ve kulturu cok zengin bir ulkedir."
+    },
+    {
+      "soru": "en iyi film hangisi",
+      "cevap": "Bu tamamen zevk meselesi ama cok sevilen filmler arasinda Inception, Matrix, Interstellar ve Lord of the Rings bulunur."
+    },
+    {
+      "soru": "oyun oner",
+      "cevap": "Eger strateji oyunlari seviyorsan Age of Empires, aksiyon oyunlari seviyorsan GTA V veya FPS seviyorsan Counter Strike oynayabilirsin."
+    },
+    {
+      "soru": "en iyi programlama dili hangisi",
+      "cevap": "En iyi programlama dili kullanacagin amaca gore degisir. Web icin JavaScript, veri analizi icin Python, sistem programlama icin C++ tercih edilebilir."
+    },
+    {
+      "soru": "ingilizce nasil ogrenilir",
+      "cevap": "Ingilizce ogrenmek icin bol bol pratik yapmali, film ve diziler izlemeli ve kelime haznesini genisletmelisin."
+    },
+    {
+      "soru": "seni kim olu\u015fturdu",
+      "cevap": "beni Muhammed Enes Baysal olu\u015fturdu."
+    },
+    {
+      "soru": "t\u00fcrkiye",
+      "cevap": "d\u00fcnyan\u0131n en g\u00fczel \u00fclkesi..."
+    },
+    {
+      "soru": "en iyi futbol tak\u0131m\u0131?",
+      "cevap": "tabiki C\u0130MBOMBOMM!!!"
+    },
+    {
+      "soru": "q",
+      "cevap": "n"
+    }
+  ]
+}
